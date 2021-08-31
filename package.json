@@ -1,0 +1,13 @@
+{
+  "name": "day2practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node ./source/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
